@@ -2,6 +2,8 @@
 
 A front-end clone of Amazon's homepage, built as my first web development project. This project showcases basic HTML, CSS, and JavaScript skills learned at the beginning of my web development journey.
 
+Project Deployment Link: https://amazon-clone-liard-seven.vercel.app/
+
 ## 📋 Project Overview
 
 This is a static website that replicates the look and feel of Amazon's homepage, featuring:
