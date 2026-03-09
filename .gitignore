@@ -1,0 +1,49 @@
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Node modules (if using npm in future)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Build and Distribution
+dist/
+build/
+out/
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# Package Manager Locks (optional - uncomment if needed)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

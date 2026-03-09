@@ -1,0 +1,37 @@
+{
+  "name": "amazon-clone",
+  "version": "1.0.0",
+  "description": "A front-end clone of Amazon's homepage - My first web development project",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Opening index.html...' && start index.html",
+    "dev": "echo 'Development mode - Open index.html in your browser'",
+    "test": "echo 'No tests configured yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lovemishra28/Amazon-Clone.git"
+  },
+  "keywords": [
+    "amazon",
+    "clone",
+    "html",
+    "css",
+    "javascript",
+    "frontend",
+    "web-development",
+    "beginner-project",
+    "learning"
+  ],
+  "author": {
+    "name": "Love Mishra",
+    "url": "https://github.com/lovemishra28"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovemishra28/Amazon-Clone/issues"
+  },
+  "homepage": "https://github.com/lovemishra28/Amazon-Clone#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
