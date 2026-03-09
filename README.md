@@ -102,7 +102,7 @@ Potential improvements for this project:
 ## 📸 Screenshots
 
 <!-- Add screenshots of your project here -->
-![Amazon Clone Screenshot](./img/screenshot.png)
+![Amazon Clone Screenshot](./img/screenshot.png.png)
 
 ## 🤝 Contributing
 
